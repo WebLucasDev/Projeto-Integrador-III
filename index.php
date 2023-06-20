@@ -459,33 +459,33 @@ if(isset($_POST['send'])){
       <div class="swiper-wrapper">
          <div class="swiper-slide box">
             <img src="images/pic-1.png" alt="">
-            <h3>john deo</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates blanditiis optio dignissimos eaque aliquid explicabo.</p>
+            <h3>Marcelo</h3>
+            <p>"O serviço impecável, a decoração deslumbrante e as vistas panorâmicas simplesmente tiraram o fôlego. Mal posso esperar para voltar!"</p>
          </div>
          <div class="swiper-slide box">
             <img src="images/pic-2.png" alt="">
-            <h3>john deo</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates blanditiis optio dignissimos eaque aliquid explicabo.</p>
+            <h3>Angélica</h3>
+            <p>"A equipe foi incrivelmente atenciosa e prestativa, garantindo que cada detalhe fosse perfeito. Uma experiência verdadeiramente cinco estrelas!"</p>
          </div>
          <div class="swiper-slide box">
             <img src="images/pic-3.png" alt="">
-            <h3>john deo</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates blanditiis optio dignissimos eaque aliquid explicabo.</p>
+            <h3>Renan</h3>
+            <p>"A suíte era luxuosa, com comodidades de primeira classe, e o restaurante oferecia uma gastronomia de classe mundial. Definitivamente, o melhor hotel em que já me hospedei."</p>
          </div>
          <div class="swiper-slide box">
             <img src="images/pic-4.png" alt="">
-            <h3>john deo</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates blanditiis optio dignissimos eaque aliquid explicabo.</p>
+            <h3>Débora</h3>
+            <p>"Cada detalhe foi cuidadosamente pensado, desde a decoração elegante até o atendimento personalizado. Uma estadia memorável que superou todas as expectativas."</p>
          </div>
          <div class="swiper-slide box">
             <img src="images/pic-5.png" alt="">
-            <h3>john deo</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates blanditiis optio dignissimos eaque aliquid explicabo.</p>
+            <h3>Flávio</h3>
+            <p>"O serviço foi excepcional em todos os aspectos, desde o check-in até o check-out. A equipe foi atenciosa e prestativa, tornando minha experiência verdadeiramente memorável."</p>
          </div>
          <div class="swiper-slide box">
             <img src="images/pic-6.png" alt="">
-            <h3>john deo</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates blanditiis optio dignissimos eaque aliquid explicabo.</p>
+            <h3>Yasmin</h3>
+            <p>"As instalações são deslumbrantes, com quartos elegantemente decorados e uma vista panorâmica deslumbrante. É o local perfeito para uma experiência luxuosa e inesquecível."</p>
          </div>
       </div>
 
